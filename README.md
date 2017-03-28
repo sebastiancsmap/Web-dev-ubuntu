@@ -1,4 +1,4 @@
-# lemp-server-ruby-nodejs
+# Web-dev-ubuntu
 This is a Docker image that has the LEMP stack ready plus Ruby, Rails, PostgreSQL and Nodejs
 
 # What is included in this image
