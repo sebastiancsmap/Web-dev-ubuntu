@@ -1,4 +1,4 @@
-Please make sure that you execute all these steps as a non-root user.
+#Please make sure that you execute all these steps as a non-root user.
 
 #Install basic tools
 apt-get -y update
@@ -84,8 +84,4 @@ ssh -T git@github.com
 #References
 https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-in-ubuntu-16-04
 https://gorails.com/setup/ubuntu/16.04
-
-    Contact GitHub API Training Shop Blog About 
-
-    © 2017 GitHub, Inc. Terms Privacy Security Status Help 
 
